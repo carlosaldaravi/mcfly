@@ -32,6 +32,9 @@
 $ npm install
 ```
 
+A database called "kubide" should be created
+You should create the .env file with the variables of the database
+
 ## Running the app
 
 ```bash
